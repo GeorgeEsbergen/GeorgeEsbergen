@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/george-esbergen-80a989195](https://www.linkedin.com/in/george-esbergen-80a989195)
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -19,16 +17,19 @@
 <a href="https://discord.gg/.george55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".george55" height="30" width="40" /></a>
 </p>
 
+<br>
+ <hr height: 1px  >
 
-## 🎓 Education
+<h3 align="left">  🎓 Education </h3>
 
 - **Future Academy**  
   *Bachelor's in Computer Science*  
   📅 **October 2020 - May 2024**  
   🏆 **GPA**: 3.3  
   🎓 **Graduation Project**: A+
+<hr height: 1px >
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -47,9 +48,13 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+ <hr height: 1px >
+<h3 align="left"> 🔝 Top languages used</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEsbergen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ <hr height: 1px >
+<h3 align="left"> 📊 Profile Stats</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeEsbergen&theme=dark&hide_border=false)<br/>
 

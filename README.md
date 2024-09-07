@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=20&color=0CA727&multiline=true&width=435&height=150&lines=Welcome+to+my+Profile+%F0%9F%91%8B;myInfo+%3D+%7B;%22+Name+%22+%3A+++%22+George+Esbergen+%22;%22+Track+%22+%3A+%22+Flutter+Developer+%22;%7D)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://github.com/GeorgeEsbergen/GeorgeEsbergen/blob/1eb42662800b5a41020da55ef86135e5999c4a06/mobile-app-development.gif">
+<img align="right" alt="coding" width="390" src="https://github.com/GeorgeEsbergen/GeorgeEsbergen/blob/1eb42662800b5a41020da55ef86135e5999c4a06/mobile-app-development.gif">
 - 🌱 I’m currently learning **Flutter , Machine Learning**
 
 - 📫 How to reach me **georgeesbergen50@gmail.com**

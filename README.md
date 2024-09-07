@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/george-esbergen-80a989195](https://www.linkedin.com/in/george-esbergen-80a989195)
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -16,6 +18,15 @@
 <a href="https://codeforces.com/profile/georgereyad50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="georgereyad50" height="30" width="40" /></a>
 <a href="https://discord.gg/.george55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".george55" height="30" width="40" /></a>
 </p>
+
+
+## 🎓 Education
+
+- **Future Academy**  
+  *Bachelor's in Computer Science*  
+  📅 **October 2020 - May 2024**  
+  🏆 **GPA**: 3.3  
+  🎓 **Graduation Project**: A+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,5 +48,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEsbergen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeEsbergen&theme=dark&hide_border=false)<br/>
 

@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **georgeesbergen50@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/george-esbergen-80a989195](https://www.linkedin.com/in/george-esbergen-80a989195)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/george-esbergen-80a989195)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

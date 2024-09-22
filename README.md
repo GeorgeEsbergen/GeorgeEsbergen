@@ -53,8 +53,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEsbergen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- <hr height: 1px >
-<h3 align="left"> 📊 Profile Stats</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeEsbergen&theme=dark&hide_border=false)<br/>
 

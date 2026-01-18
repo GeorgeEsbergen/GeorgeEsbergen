@@ -85,7 +85,7 @@ search, and explore properties with detailed listings and maps.
 Focused on smooth user experience, clean UI, and high performance.
 </p>
 <p>
-  <a href="https://apps.apple.com/app/3nwani/id6739836108" target="_blank">
+  <a href="https://apps.apple.com/eg/app/3nwani/id6739836108" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
          alt="Apple Store" width="28" height="28"/>
   </a>

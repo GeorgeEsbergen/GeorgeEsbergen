@@ -25,7 +25,7 @@
 - **Future Academy**  
   *Bachelor's in Computer Science*  
   📅 **October 2020 - May 2024**  
-  🏆 **GPA**: 3.3  
+  🏆 **GPA**: 3.3 / 4.0 
   🎓 **Graduation Project**: A+
 <hr height: 1px >
 
@@ -66,12 +66,12 @@ A comprehensive <b>car services mobile application</b> built with Flutter suppor
 It enables service booking, order tracking, role-based management, and a scalable system architecture.
 </p>
 <p>
-  <a href="https://apps.apple.com/your-app-link" target="_blank">
+  <a href="https://apps.apple.com/app/run-and-drive/id6737423228" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
          alt="Apple Store" width="28" height="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.apexnile.runanddriveuser" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
      alt="Google Play" width="28" height="28"/>
   </a>
@@ -85,12 +85,12 @@ search, and explore properties with detailed listings and maps.
 Focused on smooth user experience, clean UI, and high performance.
 </p>
 <p>
-  <a href="https://apps.apple.com/your-app-link" target="_blank">
+  <a href="https://apps.apple.com/app/3nwani/id6739836108" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
          alt="Apple Store" width="28" height="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.apexnile.anwaniand" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
      alt="Google Play" width="28" height="28"/>
   </a>
@@ -103,13 +103,13 @@ An <b>e-commerce mobile application</b> for shisha and vape products built with 
 Provides product browsing, cart management, secure checkout, and order tracking with a modern UI.
 </p>
 <p>
-  <a href="https://apps.apple.com/your-app-link" target="_blank">
+  <a href="https://apps.apple.com/app/al-fakher/id6754068092" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/0/747.png"
      alt="Apple Store" width="28" height="28"/>
 
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.apexnile.hoocka" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
      alt="Google Play" width="28" height="28"/>
 

@@ -54,4 +54,64 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEsbergen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<hr height="1px">
 
+<h3 align="left"> 🚀 Projects </h3>
+
+<!-- Run And Drive -->
+<h4>🚗 Run And Drive</h4>
+<p>
+A comprehensive <b>car services mobile application</b> built with Flutter supporting
+<b>10 different user roles</b> (customers, drivers, workshops, admins, etc.).
+It enables service booking, order tracking, role-based management, and a scalable system architecture.
+</p>
+<p>
+  <a href="https://apps.apple.com/your-app-link" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
+         alt="Apple Store" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
+     alt="Google Play" width="28" height="28"/>
+  </a>
+</p>
+
+<!-- 3nwani -->
+<h4>🏠 3nwani</h4>
+<p>
+A <b>real estate mobile application</b> built with Flutter that allows users to browse,
+search, and explore properties with detailed listings and maps.
+Focused on smooth user experience, clean UI, and high performance.
+</p>
+<p>
+  <a href="https://apps.apple.com/your-app-link" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
+         alt="Apple Store" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
+     alt="Google Play" width="28" height="28"/>
+  </a>
+</p>
+
+<!-- AlFakher -->
+<h4>💨 AlFakher</h4>
+<p>
+An <b>e-commerce mobile application</b> for shisha and vape products built with Flutter.
+Provides product browsing, cart management, secure checkout, and order tracking with a modern UI.
+</p>
+<p>
+  <a href="https://apps.apple.com/your-app-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/0/747.png"
+     alt="Apple Store" width="28" height="28"/>
+
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
+     alt="Google Play" width="28" height="28"/>
+
+  </a>
+</p>
